@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jXmSVSV5PtlsTCATIPRC2YwSzAecezPqq6XteXTohZKEw1lJcyCJ9AGdXo0KNQH98ZLuHRYdiRPshE/GtsYsqg==",
+  "dgSpecHash": "X4n7j+qns8KtSM1au0CB51Rk2B58cDYYE+N7Tvz54v/ir+G7SaBF6MSN/4dt55cjWdhp9WnFZvbT9TsRlfVIxw==",
   "success": true,
   "projectFilePath": "G:\\git\\Source\\Repos\\reimagined-robot\\reimagined-robot\\BlazorSignalRApp\\Server\\BlazorSignalRApp.Server.csproj",
   "expectedPackageFiles": [
@@ -29,8 +29,8 @@
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.jsinterop\\3.1.6\\microsoft.jsinterop.3.1.6.nupkg.sha512",
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.1\\microsoft.jsinterop.webassembly.3.2.1.nupkg.sha512",
-    "C:\\Users\\keith\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
-    "C:\\Users\\keith\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+    "C:\\Users\\keith\\.nuget\\packages\\system.net.http.json\\3.2.1\\system.net.http.json.3.2.1.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }
